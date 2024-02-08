@@ -4,7 +4,6 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.pt-br.md)
 
 Graduated in computer science, I'm a junior developer.
-I am a person with a good sense of humor, calm, who loves learning new things, passionate about music and people.
 
 ## Contacts
 
