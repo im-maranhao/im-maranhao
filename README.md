@@ -14,7 +14,7 @@ Graduated in computer science, I'm a junior developer.
 
 ## Technologies & Tools
 
-![Technologies](https://skillicons.dev/icons?i=css,git,html,js,mysql,python,php,laravel)
+![Technologies](https://skillicons.dev/icons?i=css,git,html,js,mysql,python,php,laravel,java)
 
 ![Tools](https://skillicons.dev/icons?i=docker,github,postman,vscode,figma)
 
