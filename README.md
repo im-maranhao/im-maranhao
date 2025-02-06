@@ -3,7 +3,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.pt-br.md)
 
-Graduated in computer science, I'm a junior developer.
+Graduated in computer science, I'm a developer.
 
 ## Contacts
 
